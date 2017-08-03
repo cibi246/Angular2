@@ -1,0 +1,15 @@
+﻿div {
+  padding: 5px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.strike {
+  text-decoration: line-through;
+}

@@ -1,0 +1,3 @@
+﻿
+<button   (onclick)="changeNgClass()" [(ngModel)]="selectedInstrument">Click Me</button>
+ <div [ngClass]='{"isOpen":selectedInstrument===instrument}' ]>This is {{selectedInstrument}}</div>
